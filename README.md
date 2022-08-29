@@ -8,8 +8,8 @@ A compilation of Go resources I've found useful
 
 ### Other recommendations from folks:
 * [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
-* [Effective Go]https://go.dev/doc/effective_go
+* [Effective Go](https://go.dev/doc/effective_go)
 * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 * [The Go Programming Language (book)](https://www.gopl.io/)
-* [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+* [100 Go Mistakes and How to Avoid Them (book)](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
