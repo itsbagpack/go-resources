@@ -10,6 +10,10 @@ A compilation of Go resources I've found useful
 * [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 * [Effective Go](https://go.dev/doc/effective_go)
 * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+* [[Book] The Go Programming Language](https://www.gopl.io/)
+* [[Book] 100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+* [[Video] GopherCon 2017: Mitchell Hashimoto - Advanced Testing with Go](https://www.youtube.com/watch?v=8hQG7QlcLBk&ab_channel=GopherAcademy)
+* [[Video] GopherCon EU 2018: Peter Bourgon - Best Practices for Industrial Programming](https://www.youtube.com/watch?v=PTE4VJIdHPg)
 
-* [The Go Programming Language (book)](https://www.gopl.io/)
-* [100 Go Mistakes and How to Avoid Them (book)](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+### Some "best practices":
+* [Standard Package Layout](https://www.gobeyond.dev/standard-package-layout/)
