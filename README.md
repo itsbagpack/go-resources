@@ -13,6 +13,7 @@ A compilation of Go resources I've found useful
 * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 * [[Book] The Go Programming Language](https://www.gopl.io/)
 * [[Book] 100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+* [[Book] Learning Go - MSFT login required](https://learning.oreilly.com/library/view/learning-go/9781492077206/)
 * [[Video] GopherCon 2017: Mitchell Hashimoto - Advanced Testing with Go](https://www.youtube.com/watch?v=8hQG7QlcLBk&ab_channel=GopherAcademy)
 * [[Video] GopherCon EU 2018: Peter Bourgon - Best Practices for Industrial Programming](https://www.youtube.com/watch?v=PTE4VJIdHPg)
 
